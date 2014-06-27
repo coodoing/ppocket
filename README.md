@@ -1,4 +1,8 @@
 ppocket
 =======
 
-urls &amp; resources
+Some funny resources and shiny things.
+
+Coursera 
+
+
