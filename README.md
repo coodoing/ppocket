@@ -17,7 +17,9 @@ Some funny and shiny resources that collected before.
 >* [Algorithms, Part I](https://class.coursera.org/algs4partI)  
 >* [Algorithms, Part II](https://www.coursera.org/course/algs4partII) 
 >* [Analysis of Algorithms](https://www.coursera.org/course/aofa)  
+>* [Advanced Data Structure](http://courses.csail.mit.edu/6.851/)-##
 >* [Compiler](https://www.coursera.org/course/compilers)
+
 
 ## Literal
 
