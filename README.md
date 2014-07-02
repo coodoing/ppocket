@@ -9,8 +9,8 @@ Some funny and shiny resources that collected before.
 >* [Introduction to data science](https://www.coursera.org/course/datasci)
 >* [Machine Learning - Andrew Ng](https://www.coursera.org/course/ml)
 >* [Learning from data](http://work.caltech.edu/telecourse.html) 
- * [Machine Learning - Eric Xing](http://www.cs.cmu.edu/~epxing/Class/10701/)
- * [Machine Learning - Quora](http://www.quora.com/Machine-Learning/What-are-some-good-learning-projects-to-teach-oneself-about-machine-learning#)
+>* [Machine Learning - Eric Xing](http://www.cs.cmu.edu/~epxing/Class/10701/)
+>* [Machine Learning - Quora](http://www.quora.com/Machine-Learning/What-are-some-good-learning-projects-to-teach-oneself-about-machine-learning#)
 >* [Neural Network for ML](https://www.coursera.org/course/neuralnets)-##
 >* [PGM](https://www.coursera.org/course/pgm)-##
 >* [NLP](https://www.coursera.org/course/nlp)-##
@@ -34,6 +34,6 @@ Some funny and shiny resources that collected before.
 # Books
 
 >* [Free programming book](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
- * [Influential programming book](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read?tab=votes#tab-top)
- * [DL reading list](http://deeplearning.net/reading-list/)
- * [Network reading](http://cs-www.cs.yale.edu/homes/yry/readings/general/)
+>* [Influential programming book](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read?tab=votes#tab-top)
+>* [DL reading list](http://deeplearning.net/reading-list/)
+>* [Network reading](http://cs-www.cs.yale.edu/homes/yry/readings/general/)
