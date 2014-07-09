@@ -37,3 +37,7 @@ Some funny and shiny resources that collected before.
 >* [Influential programming book](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read?tab=votes#tab-top)
 >* [DL reading list](http://deeplearning.net/reading-list/)
 >* [Network reading](http://cs-www.cs.yale.edu/homes/yry/readings/general/)
+
+## Resources
+>* [Useful data structure](http://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)
+>* [Algorithms deployed](http://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/19773)
