@@ -8,6 +8,8 @@ Some funny and shiny resources that collected before.
 
 >* [Introduction to data science](https://www.coursera.org/course/datasci)
 >* [Machine Learning - Andrew Ng](https://www.coursera.org/course/ml)
+>* [Machine Learning Foundations](https://www.coursera.org/course/ntumlone)
+>* [Machine Learning Techniques](https://www.coursera.org/course/ntumltwo)
 >* [Learning from data](http://work.caltech.edu/telecourse.html) 
 >* [Machine Learning - Eric Xing](http://www.cs.cmu.edu/~epxing/Class/10701/)
 >* [Machine Learning - Quora](http://www.quora.com/Machine-Learning/What-are-some-good-learning-projects-to-teach-oneself-about-machine-learning#)
@@ -37,6 +39,8 @@ Some funny and shiny resources that collected before.
 >* [Influential programming book](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read?tab=votes#tab-top)
 >* [DL reading list](http://deeplearning.net/reading-list/)
 >* [Network reading](http://cs-www.cs.yale.edu/homes/yry/readings/general/)
+>* [Some programming books](http://lucida.me/blog/developer-reading-list/)
+>* [PRML/The Elements of Statistical Learning/All of Statistics](...)
 
 ## Resources
 >* [Useful data structure](http://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)
