@@ -44,4 +44,5 @@ Some funny and shiny resources that collected before.
 
 ## Resources
 >* [Useful data structure](http://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)
+>* [Advanced data structure](https://courses.csail.mit.edu/6.851/)
 >* [Algorithms deployed](http://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/19773)
